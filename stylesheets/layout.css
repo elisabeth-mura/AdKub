@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 1440px;
+  display: block;
+  margin: o auto;
+}
+.section-1 {
+  display: flex;
+}
